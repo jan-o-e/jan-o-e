@@ -6,7 +6,7 @@ Hello there, I'm Jan, a quantum physics [PhD student](https://www.physics.ox.ac.
 
 Beyond physics, I am really interested in blockchain software development and have partaken in several [hackathons](https://ethglobal.com/showcase/retr0x-2p73o).
 
-[Personal Website](janoleernst.xyz)
+[Personal Website](https://janoleernst.xyz)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jan-o-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
