@@ -4,7 +4,7 @@
 # About Me:
 Hello there, I'm Jan, a quantum physics [PhD student](https://www.physics.ox.ac.uk/our-people/ernst) with a background in physics and philosophy. I am generally interested in quantum technologies, and particularly quantum computing. Currently, I am working on quantum information processing with neutral atoms. 
 
-Beyond physics, I am really interested in blockchain software development and have partaken in several [hackathons](https://ethglobal.com/showcase/retr0x-2p73o).
+Beyond physics, I am interested in tech & software development and have partaken in several [hackathons](https://ethglobal.com/showcase/retr0x-2p73o).
 
 [Personal Website](https://janoleernst.xyz)
 
