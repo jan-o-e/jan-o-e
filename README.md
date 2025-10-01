@@ -2,9 +2,6 @@
 
 
 # About Me:
-Hello there, I'm Jan, a quantum physics [PhD student](https://www.physics.ox.ac.uk/our-people/ernst) with a background in physics and philosophy. I am generally interested in quantum technologies. Currently, I am working on quantum information processing with atoms and photons. 
+Hello there, I'm Jan, I am currently working as a researcher at Normal Computing. Previously, I was a quantum physics [PhD student](https://www.physics.ox.ac.uk/our-people/ernst). 
 
-Beyond physics, I am interested in tech & software development and have partaken in several hackathons.
-
-[Personal Website](https://janoleernst.com)
 
